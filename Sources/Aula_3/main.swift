@@ -91,6 +91,7 @@ print("Saldo após saque falho: \(meuCofre.getSaldo())") // Esperado: 120.0 meuC
 
 print("Ex 3")
 /*class PerfilUsuario {
+
     public let id: UUID
     public let dataDeCadastro: Date
     public var nomeDeExibicao: String
@@ -98,3 +99,5 @@ print("Ex 3")
 
     init
 }
+
+*/
